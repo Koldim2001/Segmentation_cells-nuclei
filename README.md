@@ -18,4 +18,4 @@
 >1. Код сегментации часть 1 - [segmentation_part_1.ipynb](https://github.com/Koldim2001/Segmentation_cells-nuclei/blob/main/segmentation_part_1.ipynb)
 >2. Код сегментации часть 2 - [segmentation_part_2.ipynb](https://github.com/Koldim2001/Segmentation_cells-nuclei/blob/main/segmentation_part_2.ipynb)
 >3. Код для обучения нейронной сети - [training.ipynb](https://github.com/Koldim2001/Segmentation_cells-nuclei/blob/main/training.ipynb)
->4. Текстовый отчет в формате pdf - [report.pdf](https://github.com/Koldim2001/Emotion_classifier/blob/main/emotion_class_multy.ipynb)
+>4. Текстовый отчет в формате pdf - [report.pdf](https://github.com/Koldim2001/Segmentation_cells-nuclei/blob/main/report.pdf)
